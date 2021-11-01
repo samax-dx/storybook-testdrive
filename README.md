@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `yarn storybook`
+
+Check out `components` available for the project to use.
+
 ### `yarn start`
 
 Runs the app in the development mode.\
