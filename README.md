@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with UI development with ReactJS & StorybookJS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ### `yarn storybook`
 
-Check out `components` available for the project to use.
+Check out `components` available for the project to use.\
 Open [http://localhost:6006/](http://localhost:6006/) to view it in the browser.
 
 ### `yarn start`
