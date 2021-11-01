@@ -9,6 +9,7 @@ In the project directory, you can run:
 ### `yarn storybook`
 
 Check out `components` available for the project to use.
+Open [http://localhost:6006/](http://localhost:6006/) to view it in the browser.
 
 ### `yarn start`
 
