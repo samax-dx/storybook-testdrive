@@ -15,7 +15,7 @@ export const MainNav = ({ color, selectedKey }) => {
 
 MainNav.propTypes = {
     color: PropTypes.string,
-    selectedKey: PropTypes.oneOf(["product", "category"])
+    selectedKey: PropTypes.oneOf(["home", "product", "category"])
 };
 
 MainNav.defaultProps = {
